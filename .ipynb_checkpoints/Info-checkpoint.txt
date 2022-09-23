@@ -1,1 +1,12 @@
 https://github.com/toarnabtrainer/vodafone_python_batch93
+
+Test on Python Scripting (1): http://bit.ly/3l5JkFk
+Test on Python Scripting (2): http://bit.ly/3aHFQXb
+Test on Python Scripting (3): https://bit.ly/3dCzaho
+
+Tutorial Link-1:
+https://www.programiz.com/python-programming
+
+Tutorial Link-2:
+https://data-flair.training/blogs/python-tutorials-home/
+
