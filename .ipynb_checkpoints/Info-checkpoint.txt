@@ -10,3 +10,5 @@ https://www.programiz.com/python-programming
 Tutorial Link-2:
 https://data-flair.training/blogs/python-tutorials-home/
 
+Please share your feedback against this Python training against the following link:
+https://feedbackind.vinsys.com/Indiafeedback.html?batch_id%3D1469
